@@ -1,6 +1,6 @@
 # Definiciones y usos
 
-### Los bucles forEach, reduce, filter y map en JavaScript. Estas son funciones de orden superior que son parte de JavaScript y se utilizan comúnmente en programación funcional y trabajando con matrices.
+### Las funciones forEach, reduce, filter y map en JavaScript. Estas son funciones de orden superior que son parte de JavaScript y se utilizan comúnmente en programación funcional y trabajando con matrices.
 
 ### forEach
 
