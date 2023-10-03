@@ -2,9 +2,9 @@
 
 ### Los bucles forEach, reduce, filter y map en JavaScript. Estas son funciones de orden superior que son parte de JavaScript y se utilizan comúnmente en programación funcional y trabajando con matrices.
 
-## forEach
+### forEach
 
-### forEach se utiliza para iterar sobre una matriz y ejecutar una función para cada elemento de la matriz.
+forEach se utiliza para iterar sobre una matriz y ejecutar una función para cada elemento de la matriz.
 
 javascript
 
@@ -15,9 +15,9 @@ javascript
     });
 Esto imprimirá los números del 1 al 5 en la consola.
 
-## reduce
+### reduce
 
-### reduce se utiliza para reducir una matriz a un solo valor acumulando los resultados de una función en cada elemento.
+ reduce se utiliza para reducir una matriz a un solo valor acumulando los resultados de una función en cada elemento.
 
 javascript
 
@@ -29,9 +29,9 @@ javascript
 
     console.log(sum); // Esto imprimirá 15, que es la suma de todos los números.
     
-## filter
+### filter
 
-### filter se utiliza para crear una nueva matriz que contiene solo los elementos que cumplan con ciertos criterios.
+ filter se utiliza para crear una nueva matriz que contiene solo los elementos que cumplan con ciertos criterios.
 
 javascript
 
@@ -44,7 +44,7 @@ javascript
     console.log(evenNumbers); // Esto imprimirá [2, 4], que son los números pares.
     
 
-## map
+### map
 
 ### map se utiliza para crear una nueva matriz aplicando una función a cada elemento de la matriz original.
 
@@ -59,4 +59,4 @@ javascript
     console.log(doubledNumbers); // Esto imprimirá [2, 4, 6, 8, 10], que son los números originales multiplicados por 2.
 
 
-## Estas funciones son poderosas y versátiles, y son útiles para realizar diversas operaciones en matrices de manera eficiente en JavaScript.
+ Estas funciones son poderosas y versátiles, y son útiles para realizar diversas operaciones en matrices de manera eficiente en JavaScript.
